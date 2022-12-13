@@ -1,0 +1,19 @@
+ .card {
+     border: 3px solid rgb(158, 156, 156);
+     border-radius: 10px;
+     /* box-shadow: 5px 5px 20px rgb(78, 49, 39); */
+     filter: drop-shadow(0 0 2.8rem rgb(0, 0, 0));
+     padding: 25px;
+     color: white;
+     background-color: rgb(46, 10, 38);
+     /* width: 80%; */
+     margin: 50px auto;
+ }
+
+ .profile {
+     max-width: 124px;
+ }
+
+ .userImage {
+     max-height: 42px;
+ }
